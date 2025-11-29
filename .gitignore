@@ -1,0 +1,21 @@
+# All node_modules
+node_modules/
+
+# All env files
+.env
+.env.*
+
+# Mac system files
+.DS_Store
+*/.DS_Store
+
+# Logs
+*.log
+
+# Build folders
+dist/
+build/
+frontend/dist/
+frontend/build/
+backend/dist/
+backend/build/
